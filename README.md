@@ -27,7 +27,7 @@ Java 기반 Back-End를 중심으로, 프론트엔드·데이터 수집 등 다�
 ## ✨ Contact & More
 
 - ✉️ Email : [sbg0629@naver.com]
-- 💻 [LinkedIn/Blog/포트폴리오](https://)
+- 💻 [LinkedIn/Blog/포트폴리오](https://www.notion.so/2a55973adc6c80f68ae7eb5d6cb521ee)
 
 ---
 
