@@ -17,14 +17,6 @@ Java 기반 Back-End를 중심으로, 프론트엔드·데이터 수집 등 다�
 
 ---
 
-## 🏆 GitHub 트로피
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbg0629&theme=default&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 GitHub 통계
 
 ![sbg0629's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbg0629&show_icons=true&theme=default)
